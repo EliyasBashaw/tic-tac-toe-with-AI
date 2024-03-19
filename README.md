@@ -11,7 +11,8 @@ How to Play
 
 Game Rules
 
--> The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+-> The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game. 
+
 -> If the board is full and no player has achieved a winning condition, the game is a tie. 
 
 Running the Game
