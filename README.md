@@ -15,7 +15,8 @@ Game Rules
 
 -> If the board is full and no player has achieved a winning condition, the game is a tie. 
 
-Running the Game
+Running the Game 
+
 To run the game, execute the Python script. The game will continue to ask if you want to play again after each round.
 
 
